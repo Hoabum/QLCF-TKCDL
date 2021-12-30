@@ -1,0 +1,704 @@
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\POS.exe.config
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\POS.exe
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\POS.pdb
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\Guna.UI.dll
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.exe
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.pdb
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.UserControl2.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\POS.exe.config
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\POS.exe
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\POS.pdb
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.csproj.SuggestedBindingRedirects.cache
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Properties.Resources.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.UserControl1.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.UserControl2.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.csproj.GenerateResource.cache
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.csproj.CopyComplete
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.exe
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.pdb
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Guna.UI2.dll
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Home.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Kho.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.menu.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Forgot_password.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Login.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Change_Password.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.New_Password.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.NV.resources
+B:\IT\Tkcsdl\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.SignUp.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\POS.exe.config
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\POS.exe
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\POS.pdb
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Guna.UI2.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\EnvDTE.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\stdole.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Change_Password.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Forgot_password.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.FormReportHoaDon.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Home.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Kho.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Login.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.menu.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.New_Password.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.NV.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.SignUp.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.UserControl2.resources
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.exe
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.pdb
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\RdlCompile.cache
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\RdlCompile.compiled
+C:\Users\hoabu\OneDrive\Máy tính\c-POS-Restaurant-UI-Design-guna-main\POS\obj\Debug\POS.FormThongKe.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\POS.exe.config
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\POS.exe
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\POS.pdb
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Guna.UI2.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\EnvDTE.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\stdole.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\Microsoft.MSXML.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.csprojAssemblyReference.cache
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.Change_Password.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.Forgot_password.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.FormReportHoaDon.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.FormThongKe.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.Home.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.Kho.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.Login.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.menu.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.New_Password.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.NV.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.Properties.Resources.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.SignUp.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.UserControl1.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.UserControl2.resources
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.csproj.GenerateResource.cache
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.csproj.CopyComplete
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.exe
+D:\lập trình trực quan\c-POS-Restaurant-UI-Design-guna-main_VER1\POS\obj\Debug\POS.pdb
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\POS.exe.config
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\POS.exe
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\POS.pdb
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Guna.UI2.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\EnvDTE.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\stdole.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.MSXML.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Change_Password.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Forgot_password.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.FormReportHoaDon.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.FormThongKe.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Home.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Kho.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Login.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.menu.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.New_Password.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.NV.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Properties.Resources.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.SignUp.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.UserControl1.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.UserControl2.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.GenerateResource.cache
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\RdlCompile.cache
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\RdlCompile.compiled
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.CopyComplete
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.exe
+D:\ThinPencil\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.pdb
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\POS.exe.config
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\POS.exe
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\POS.pdb
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Guna.UI2.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\EnvDTE.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\stdole.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Change_Password.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Forgot_password.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.FormReportHoaDon.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.FormThongKe.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Home.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Kho.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Login.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.menu.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.New_Password.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.NV.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.SignUp.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.UserControl2.resources
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\RdlCompile.cache
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\RdlCompile.compiled
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.exe
+C:\Users\hoabu\Documents\Zalo Received Files\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.pdb
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\POS.exe.config
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\POS.exe
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\POS.pdb
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Guna.UI2.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\EnvDTE.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\stdole.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Change_Password.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Forgot_password.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.FormReportHoaDon.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.FormThongKe.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Home.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Kho.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Login.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.New_Password.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.NV.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.SignUp.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.UserControl2.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.exe
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\POS.pdb
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\RdlCompile.cache
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\c-POS-Restaurant-UI-Design-guna-main_VER2\POS\obj\Debug\RdlCompile.compiled
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\POS.exe.config
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\POS.exe
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\POS.pdb
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Guna.UI2.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\EnvDTE.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\stdole.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.Change_Password.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.Forgot_password.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.FormReportHoaDon.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.FormThongKe.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.Home.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.Kho.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.Login.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.New_Password.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.NV.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.SignUp.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.UserControl2.resources
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\RdlCompile.cache
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\RdlCompile.compiled
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.exe
+C:\Users\hoabu\Downloads\DoAn_tkcsdl_final_ver2\DoAn_tkcsdl_final_ver2\TKCSDL\POS\obj\Debug\POS.pdb
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\POS.exe.config
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\POS.exe
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\POS.pdb
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Guna.UI2.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\EnvDTE.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\stdole.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.MSXML.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Change_Password.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Forgot_password.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.FormReportHoaDon.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Home.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Kho.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Login.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.New_Password.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.NV.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Properties.Resources.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.SignUp.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.UserControl1.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.UserControl2.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.csproj.GenerateResource.cache
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\RdlCompile.cache
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\RdlCompile.compiled
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.csproj.CopyComplete
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.exe
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.pdb
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.FormThongKeDoanhThu.resources
+D:\ThinPencil\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.FormThongKeHoaDon.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\POS.exe.config
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\POS.exe
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\POS.pdb
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Guna.UI2.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\EnvDTE.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\stdole.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Change_Password.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Forgot_password.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.FormReportHoaDon.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.FormThongKeDoanhThu.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.FormThongKeHoaDon.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Home.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Kho.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Login.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.New_Password.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.NV.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.SignUp.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.UserControl2.resources
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\RdlCompile.cache
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\RdlCompile.compiled
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.exe
+C:\Users\hoabu\OneDrive\Máy tính\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\DoAn_tkcsdl_final_ver3\TKCSDL\POS\obj\Debug\POS.pdb
